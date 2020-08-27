@@ -1,0 +1,26 @@
+#signupForm {
+    font-family: falcons;
+    font-weight: 100;
+    color: white;
+    margin-top: 50px;
+
+}
+
+#first{
+    margin-bottom: 25px;
+}
+
+#fantasy{
+    background-color:
+    #0a0a0a;
+    opacity: .9;
+    border-radius: 10px;
+}
+
+#email{
+    margin-bottom: 50px;
+}
+
+#submit{
+    margin-bottom: 50px;
+}

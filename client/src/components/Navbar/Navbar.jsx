@@ -9,15 +9,15 @@ const Navbar = () => {
           <h1 className="display-4">2020 Fantasy Football Signup</h1>
         </div>
       </div>
-      <ul className="nav justify-content-center">
+      <ul id="links" className="nav justify-content-center">
         <li className="nav-item">
-          <a className="nav-link active" href="#">
-            Active
+          <a className="nav-link active" href="/preview">
+            Hype Me Up!
           </a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">
-            Link
+          <a className="nav-link" href="/sad">
+            Ruin My Day..
           </a>
         </li>
       </ul>

@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Navbar from "../../components/Navbar/Navbar";
-import Highlight from "../../components/Highlight/Highlight"
+import Highlight from "../../components/Highlight/Highlight";
+import Signup from "../../components/Signup/Signup";
 
 class Home extends Component {
     render() {
@@ -11,6 +12,7 @@ class Home extends Component {
             autoPlay
             loop
              />
+             <Signup />
             </div>
            
               
