@@ -9,6 +9,7 @@ const Highlight = () => {
             autoPlay="autoplay"
             loop="loop"
             muted
+            playsInline="playsinline"
             style={{
                 position: "absolute",
                 width: "100%",
