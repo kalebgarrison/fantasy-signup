@@ -9,7 +9,7 @@ const Preview = () => {
         <video
           autoPlay
           loop
-          playsInline="playsinline"
+          playsInline
           style={{
             position: "absolute",
             width: "100%",
